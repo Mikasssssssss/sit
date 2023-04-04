@@ -9,6 +9,6 @@ int fib(int n) {
 
 int main() {
 	int n;
-	cin»n;
-	cout«fib(n);
+	cin>>n;
+	cout<<fib(n);
 }
